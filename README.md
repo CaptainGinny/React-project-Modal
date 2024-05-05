@@ -1,7 +1,7 @@
 ## Modal window
 [Demo](https://captainginny.github.io/React-project-Modal/)
 
-#Skills
+##Skills
 1. Conditional rendering
 2. How to make an animated modal window
 3. How to pass content (children) to the modal window
